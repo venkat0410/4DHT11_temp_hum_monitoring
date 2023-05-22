@@ -4,7 +4,7 @@ Project Title: 4DHT_temp_hum_monitoring
 
 Project Description:
 The "4DHT_temp_hum_monitoring" project aims to monitor environmental parameters such as temperature and humidity using DHT sensors. The project utilizes an ESP8266 microcontroller to process the sensor data and send it to a cloud platform. The collected data is then displayed on a website that has been specifically created for this purpose.
-This project is developed with the help of (
+This project is developed with the help of (https://github.com/aesthet1c0der)
 
 Equipment and Components used:
 1. ESP8266 microcontroller (NodeMCU)
